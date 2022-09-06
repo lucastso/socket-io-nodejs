@@ -1,0 +1,15 @@
+{
+  "name": "socket-io-chat-nodejs",
+  "version": "1.0.0",
+  "description": "Socket IO test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "LTS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.2"
+  }
+}
